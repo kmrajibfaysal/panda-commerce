@@ -28,3 +28,29 @@
   border: none;
   cursor: pointer;
 }
+
+.watch,
+.bag,
+.shoes {
+  padding: 10px 30px;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: none;
+  cursor: pointer;
+}
+
+.watch {
+  background-color: orange;
+}
+
+.bag {
+  background-color: orchid;
+}
+
+.shoes {
+  background-color: rgb(30, 30, 245);
+}
